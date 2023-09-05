@@ -30,15 +30,12 @@ img {
     width: 100%;
 }
 
-div.header {
+div.header,
+div.description {
     padding: 15px;
 }
 
 div.header h2 {
     margin: 0;
     font-size: 20px;
-}
-
-div.description {
-    padding: 15px;
 }
